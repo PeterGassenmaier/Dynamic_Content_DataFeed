@@ -1,0 +1,48 @@
+{
+  "dropperEmailsubject": "Find your next job here",
+  "dropperEmailPreHeader": "Complete your registration to get started",
+  "dropperEmailHeadline": "Ready to find your next job?",
+  "droperEmailContent" : "Make sure to complete your registration so you can respond to jobs in your area. Add your phone number so customers know how to get in touch with you.",
+  "dropperEmailCTACopy": "Complete registration",
+  "jobs": [
+    {
+      "id": 123,
+      "title": "Window installing",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+      "nameInitials": "MM",
+      "publishedDate": "1 hour ago",
+      "contactedOfInterestedLabel": "test",
+      "distance": {
+        "value": 12,
+        "unit": "km"
+      },
+      "location": "Berlin"
+    },
+    {
+      "id": 3432,
+      "title": "Floor cleaning",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+      "nameInitials": "RH",
+      "publishedDate": "1 month ago",
+      "contactedOfInterestedLabel": "test",
+      "distance": {
+        "value": 3,
+        "unit": "km"
+      },
+      "location": "Kathmandu"
+    },
+    {
+      "id": 3432,
+      "title": "Plumbing",
+      "description": "Please clean my flat",
+      "nameInitials": "RH",
+      "publishedDate": "1 month ago",
+      "contactedOfInterestedLabel": "test",
+      "distance": {
+        "value": 20,
+        "unit": "km"
+      },
+      "location": "Potsdam"
+    }
+  ]
+}
