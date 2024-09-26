@@ -1,8 +1,9 @@
 {
   "dropperEmailsubject": "Find your next job here",
   "dropperEmailPreHeader": "Complete your registration to get started",
-  "dropperEmailHeadline": "Ready to find your next job?",
-  "dropperEmailContent" : "Make sure to complete your registration so you can respond to jobs in your area. Add your phone number so customers know how to get in touch with you.",
+
+  "dropperEmailContent" : "Nog maar een paar stappen te gaan!
+Voeg je telefoonnummer toe, voltooi je inschrijving en start met reageren op deze klussen.",
   "dropperEmailCTACopy": "Complete registration",
   "jobs": [
     {
