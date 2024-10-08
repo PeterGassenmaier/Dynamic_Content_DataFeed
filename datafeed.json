@@ -1,7 +1,7 @@
 {
   "dropperEmailSubject": "Identitätsnachweis hinzufügen und Aufträge freischalten",
   "dropperEmailPreHeader": "Schließen Sie noch heute Ihre Registrierung ab.",
-  "dropperEmailHeadline": "Klaar om je volgende klus te vinden?",
+  "dropperEmailHeadline": "Das müssen Sie noch erledigen, um auf Aufträge zu reagieren.",
   "dropperEmailContent" : "Lieber Peter Gassenmaier, alle Handwerker müssen einen Identitätsnachweis beibringen, wenn sie bei MyHammer.de Mitglied werden wollen. Bitte bestätigen Sie jetzt Ihre Identität, und schließen Sie Ihre Registrierung ab. Danach können Sie sofort auf Aufträge reagieren.",
   "userLocation": "Berlin",
   "jobs": [
