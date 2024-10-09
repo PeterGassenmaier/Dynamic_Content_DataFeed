@@ -2,7 +2,7 @@
   "dropperEmailSubject": "Identitätsnachweis hinzufügen und Aufträge freischalten in {{addressDetails.city}}",
   "dropperEmailPreHeader": "Schließen Sie noch heute Ihre Registrierung ab.",
   "dropperEmailHeadline": "Das müssen Sie noch erledigen, um auf Aufträge in {{addressDetails.city}} zu reagieren.",
-  "dropperEmailContent" : "Lieber Peter Gassenmaier, alle Handwerker müssen einen Identitätsnachweis beibringen, wenn sie bei MyHammer.de Mitglied werden wollen. Bitte bestätigen Sie jetzt Ihre Identität, und schließen Sie Ihre Registrierung ab. Danach können Sie sofort auf Aufträge reagieren.",
+  "dropperEmailContent" : "{{{ snippet 'REBRAND_Salutation' }}} alle Handwerker müssen einen Identitätsnachweis beibringen, wenn sie bei MyHammer.de Mitglied werden wollen. Bitte bestätigen Sie jetzt Ihre Identität, und schließen Sie Ihre Registrierung ab. Danach können Sie sofort auf Aufträge reagieren.",
   "dropperEmailCTACopy": "Identitätsnachweis hinzufügen",
   "dropperEmailCTAUrl": "https://www.my-hammer.de",
   "userLocation": "Berlin",
